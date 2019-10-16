@@ -18,6 +18,7 @@ public class Blur {
 		System.exit(0);
 	}
 
+	
 	@FXML
 	public void setblur() {
 		pane.setEffect(new GaussianBlur(5));
