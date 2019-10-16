@@ -22,4 +22,5 @@ public class Blur {
 	public void setblur() {
 		pane.setEffect(new GaussianBlur(5));
 	}
+
 }
